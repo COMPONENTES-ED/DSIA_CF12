@@ -64,7 +64,7 @@ export default {
         {
           termino: 'F1-<em>Score</em>',
           significado:
-            'Medida que combina la precisión y el recall en una sola métrica armonizada, proporcionando una evaluación equilibrada del rendimiento del modelo.',
+            'Medida que combina la precisión y el <em>recall</em> en una sola métrica armonizada, proporcionando una evaluación equilibrada del rendimiento del modelo.',
         },
         {
           termino: 'Matriz de confusión',

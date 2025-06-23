@@ -1,5 +1,5 @@
 const titulo =
-  'Métricas de evaluación para machine learning: precisión y robustez'
+  'Recolección y documentación de requisitos de software'
 
 module.exports = {
   publicPath: '',

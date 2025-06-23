@@ -30,11 +30,11 @@
         .p-4(style="background-color: #EDE9EC")
           p.mb-0 La integración de técnicas de evaluación con prácticas de comunicación y documentación garantiza que los resultados no solo sean precisos, sino también comprensibles y utilizables por diferentes audiencias. Como dice un principio fundamental en #[em machine learning]: "Un modelo es tan bueno como su evaluación".
       .col-lg-2.col-5: img(src='@/assets/curso/temas/intro/4.png', alt='')
-    p.mb-5 ¡Te invitamos a descubrir las métricas y metodologías clave para evaluar y mejorar tus modelos de #[em machine learning], asegurando su precisión y robustez en cada aplicación!
+    p.mb-5 ¡Le invitamos a descubrir las métricas y metodologías clave para evaluar y mejorar sus modelos de #[em machine learning], asegurando su precisión y robustez en cada aplicación!
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/RxhHTriDAac?si=O7UoLvE03BLD1S02" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. 
+      figcaption Video. Métricas de evaluación para #[em machine learning:] precisión y robustez
 
 
 

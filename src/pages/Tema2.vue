@@ -99,7 +99,7 @@
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
         .p-5.bg-color-2.mb-0
-          p.mb-3 El método Random forest se caracteriza por lo siguiente:
+          p.mb-3 El método #[em Random forest] se caracteriza por lo siguiente:
           ul.lista-ul--color.color-primario.mb-0
             li.d-flex
               i.fas.fa-check-circle
@@ -153,7 +153,7 @@
         .row.justify-content-center.mb-5
           .col-sm-12.col-lg-5.d-none.d-lg-block.mb-lg-0.mb-3: img(src='@/assets/curso/temas/t2/10.png', alt='')
           .col-sm-12.col-lg-7
-            h4.mb-4 #[i XGBoost] (#[i extreme gradient Boosting]):
+            h4.mb-4 #[i XGBoost] (#[i eXtreme Gradient Boosting]):
             p.mb-3 #[b Mejoras sobre #[em gradient Boosting]:] optimización de velocidad y rendimiento mediante técnicas como paralelización, regularización y manejo eficiente de memoria.
             p.mb-0 #[b Uso común:] muy popular en competiciones de machine #[i learning] por su alta precisión y eficiencia.
 
@@ -287,7 +287,7 @@
               p.mb-0 #[b Sistemas de recomendación:] los ensamblados pueden mejorar la precisión de recomendaciones al combinar diferentes modelos.
       .col-sm-12.col-lg-5.d-none.d-lg-block: img(src='@/assets/curso/temas/t2/13.png')
     .titulo-tres: h3.mb-0 Conclusiones
-    p.mb-0 Los métodos de ensamblado son herramientas poderosas en el arsenal de#[em machine learning] que permiten mejorar la precisión y robustez de los modelos, al combinar múltiples modelos, es posible superar las limitaciones de modelos individuales y obtener mejores resultados en una amplia gama de aplicaciones, sin embargo, es importante comprender las diferencias entre las distintas técnicas de ensamblado y saber cuándo aplicarlas adecuadamente. En el próximo capítulo, profundizaremos en las métricas avanzadas de evaluación y en cómo ajustar los modelos para optimizar su rendimiento
+    p.mb-0 Los métodos de ensamblado son herramientas poderosas en el arsenal de #[em machine learning] que permiten mejorar la precisión y robustez de los modelos, al combinar múltiples modelos, es posible superar las limitaciones de modelos individuales y obtener mejores resultados en una amplia gama de aplicaciones, sin embargo, es importante comprender las diferencias entre las distintas técnicas de ensamblado y saber cuándo aplicarlas adecuadamente. En el próximo capítulo, profundizaremos en las métricas avanzadas de evaluación y en cómo ajustar los modelos para optimizar su rendimiento
 
 </template>
 

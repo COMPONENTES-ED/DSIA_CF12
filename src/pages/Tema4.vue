@@ -49,7 +49,7 @@
     p.mb-3 Los informes técnicos son documentos que detallan de manera exhaustiva los procesos, análisis y resultados de un proyecto técnico. Su objetivo es proporcionar información precisa y detallada que permita a otros profesionales comprender y reproducir el trabajo realizado. Al elaborar un informe técnico, es importante considerar los siguientes elementos:
     .mn.p-5.bg-slyder.mb-5
       .tarjeta.bg-white.p-5
-        SlyderA(tipo='b')
+        CarouselRED(tipo='b')
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-6.mb-0.mb-lg-0
               h5 Resumen ejecutivo
@@ -137,7 +137,7 @@
     p.mb-5 La socialización de los resultados implica compartir los hallazgos con diferentes audiencias, que pueden incluir equipos técnicos, gerentes, clientes o el público en general. Es importante adaptar la presentación según el público objetivo, ajustando el nivel de detalle y el lenguaje utilizado. Al preparar una presentación de resultados, se deben considerar los siguientes puntos:
     .mn.p-5.bg-slyder.mb-5
       .tarjeta.bg-white.p-5
-        SlyderA(tipo='b')
+        CarouselRED(tipo='b')
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-6.mb-0.mb-lg-0
               h5 Conocer a la audiencia

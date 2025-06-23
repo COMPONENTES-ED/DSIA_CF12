@@ -43,22 +43,22 @@ export default {
       },
       {
         referencia:
-          'García, S., Luengo, J., & Herrera, F. (2021). <em>Data Preprocessing in Data Mining and Machine learning:</em> New Frameworks, Algorithms and Applications. Springer.',
+          'García, S., Luengo, J., & Herrera, F. (2021). <em>Data Preprocessing in Data Mining and Machine learning: New Frameworks, Algorithms and Applications. Springer.</em>',
         link: '',
       },
       {
         referencia:
-          "Géron, A. (2022). <em> Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.)<em>. O'Reilly Media.",
+          "Géron, A. (2022). <em> Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems </em> (3rd ed.). O'Reilly Media.",
         link: '',
       },
       {
         referencia:
-          'Knaflic, C. N. (2023). <em> Storytelling with Data: A Data Visualization Guide for Business Professionals (3rd ed.).</em> Wiley.',
+          'Knaflic, C. N. (2023). <em> Storytelling with Data: A Data Visualization Guide for Business Professionals</em> (3rd ed.). Wiley.',
         link: '',
       },
       {
         referencia:
-          'Molnar, C. (2022). <em> Interpretable Machine learning: A Guide for Making Black Box Models Explainable (2nd ed.).</em> Leanpub.',
+          'Molnar, C. (2022). <em> Interpretable Machine learning: A Guide for Making Black Box Models Explainable</em> (2nd ed.). Leanpub.',
         link: 'https://christophm.github.io/interpretable-ml-book/',
       },
       {
@@ -93,17 +93,17 @@ export default {
       },
       {
         referencia:
-          'Topuz, K., Baiqi, A., & Abdulrashid, I. (2023). Interpretable Machine learning. In Proceedings of the Annual Hawaii International Conference on System Sciences (Vol. 2023-January, pp. 1226-1237). IEEE Computer Society.',
+          'Topuz, K., Baiqi, A., & Abdulrashid, I. (2023). <em>Interpretable Machine learning. In Proceedings of the Annual Hawaii International Conference on System Sciences</em> (Vol. 2023-January, pp. 1226-1237). IEEE Computer Society.',
         link: 'https://doi.org/10.24251/HICSS.2023.146',
       },
       {
         referencia:
-          'Zechech, F., & Heinrich, K. (2021). Machine learning and deep learning. Electronic Markets, 31(3), 685-695.',
+          'Zechech, F., & Heinrich, K. (2021). <em>Machine learning and deep learning.</em> Electronic Markets, 31(3), 685-695.',
         link: 'https://doi.org/10.1007/s12525-021-00475-2',
       },
       {
         referencia:
-          'Vesselinov, V. V. (2019). <em> Machine learning. Office of Scientific and Technical Information</em> (OSTI).',
+          'Vesselinov, V. V. (2019). <em>Machine learning. Office of Scientific and Technical Information </em> (OSTI).',
         link: 'http://dx.doi.org/10.2172/1492563',
       },
     ],

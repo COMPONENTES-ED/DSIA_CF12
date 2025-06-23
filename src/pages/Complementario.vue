@@ -78,7 +78,7 @@ export default {
           tema:
             '2. Técnicas de ensamblado de modelos de inteligencia artificial',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023c, agosto 18). Aprendizaje no supervisado K-means.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, agosto 18). Aprendizaje no supervisado K-means.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=Vlff4MlN_4-6',
         },
@@ -86,21 +86,21 @@ export default {
           tema:
             '2. Técnicas de ensamblado de modelos de inteligencia artificial',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023a, marzo 27). Algoritmos usados en aprendizaje no supervisado.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 27). Algoritmos usados en aprendizaje no supervisado.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=ZsscG3_Nx9M',
         },
         {
           tema: '3. Métricas avanzadas de evaluación y ajuste de modelos',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023b, octubre 10). <em>Machine learning</em> con Python.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 10). <em>Machine learning</em> con Python.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=wafh7O-elPSIA',
         },
         {
           tema: '3. Métricas avanzadas de evaluación y ajuste de modelos',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023b, marzo 17). Optimización de datos previo a la creación de modelos de <em>machine learning</em>.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 17). Optimización de datos previo a la creación de modelos de <em>machine learning</em>.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=tKeCxw_PCVU',
         },

@@ -115,7 +115,7 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'El arte del storytelling en ciencia de datos',
+            titulo: 'El arte del <em>storytelling</em> en ciencia de datos',
             hash: 't_4_1',
           },
           {

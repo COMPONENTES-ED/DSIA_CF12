@@ -120,7 +120,7 @@
     p.mb-5 La evaluación de modelos de #[em machine learning] presenta varios desafíos que deben ser abordados para asegurar resultados confiables y útiles.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-9
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AccordionRED.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Datos desbalanceados")
             p.mb-3 Cuando una clase predomina significativamente sobre otras, algunas métricas pueden ser engañosas. Por ejemplo, en un problema de detección de fraude donde solo el 1 % de las transacciones son fraudulentas, un modelo que siempre predice "no fraude" tendría una precisión del 99 %, pero sería inútil para detectar fraudes reales.
             p.mb-3 #[b Soluciones:]
@@ -136,7 +136,7 @@
                 p.mb-0  Emplear algoritmos diseñados para manejar desequilibrios de clases: como #[b #[i Balanced Random forest o Adaptive Boosting]].
           div(titulo="Sobreajuste y Subajuste")
             p.mb-2 #[b Sobreajuste (#[em Overfitting]):] ocurre cuando el modelo se ajusta demasiado a los datos de entrenamiento, capturando ruido y patrones irrelevantes. Esto conduce a un pobre rendimiento en datos nuevos.
-            p.mb-4 #[b Subajuste (#[em Underfitting]):] Sucede cuando el modelo es demasiado simple para capturar la estructura subyacente de los datos, resultando en un rendimiento deficiente tanto en el conjunto de entrenamiento como en nuevos datos.
+            p.mb-4 #[b Subajuste (#[em Underfitting]):] sucede cuando el modelo es demasiado simple para capturar la estructura subyacente de los datos, resultando en un rendimiento deficiente tanto en el conjunto de entrenamiento como en nuevos datos.
             p.mb-3 #[b Soluciones:]
             ul.lista-ul--color.color-primario.mb-0
               li.d-flex
@@ -148,7 +148,7 @@
               li.d-flex
                 i.fas.fa-check-circle
                 p.mb-0 #[b Ajuste de hiperparámetros:] optimizar parámetros clave del modelo para encontrar el equilibrio adecuado entre sesgo y varianza.
-          div(titulo="Interpretabilidad vs. Complejidad")
+          div(titulo="Interpretabilidad vs. complejidad")
             p.mb-3 Modelos más complejos, como las redes neuronales profundas, pueden ofrecer mayor precisión pero son menos interpretables. En ciertos dominios, como la medicina o las finanzas, la interpretabilidad es importante para cumplir con regulaciones y generar confianza en los usuarios.
             p.mb-3 #[b Soluciones:]
             ul.lista-ul--color.color-primario.mb-0
@@ -173,7 +173,7 @@
                 p.mb-0 Ajustar los umbrales de decisión del modelo para minimizar los errores más críticos.
               li.d-flex
                 i.fas.fa-check-circle
-                p.mb-0 Priorizar métricas que capturen la gravedad de los errores, como el #[b Recall] en casos donde los falsos negativos son más costosos.
+                p.mb-0 Priorizar métricas que capturen la gravedad de los errores, como el #[b #[em Recall]] en casos donde los falsos negativos son más costosos.
 
           div(titulo="Variabilidad en los datos")
             p.mb-3 Los datos pueden cambiar con el tiempo debido a tendencias, estacionalidades o cambios en el comportamiento. Esto puede causar que el rendimiento del modelo disminuya si no se actualiza regularmente.
