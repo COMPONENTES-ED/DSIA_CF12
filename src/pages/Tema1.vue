@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Introducción a la evaluación de modelos de #[em machine learning]
-    p.p-4.mb-5.bg-color-1 Este capítulo proporciona una base para comprender la importancia y los conceptos clave de las métricas de evaluación en #[em machine learning]. Se explora cómo la precisión y la robustez son pilares fundamentales en la evaluación de modelos y se discuten los desafíos comunes que pueden surgir durante este proceso. Al abordar estos desafíos con estrategias y soluciones adecuadas, podemos garantizar que nuestros modelos sean más precisos, confiables y aplicables en situaciones del mundo real.
+    p.p-4.mb-5.bg-color-1 Este tema proporciona una base para comprender la importancia y los conceptos clave de las métricas de evaluación en #[em machine learning]. Se explora cómo la precisión y la robustez son pilares fundamentales en la evaluación de modelos y se discuten los desafíos comunes que pueden surgir durante este proceso. Al abordar estos desafíos con estrategias y soluciones adecuadas, podemos garantizar que nuestros modelos sean más precisos, confiables y aplicables en situaciones del mundo real.
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1	La importancia de las métricas de evaluación
@@ -207,7 +207,7 @@
       .col-lg-2.d-none.d-lg-block: img(src='@/assets/curso/temas/t1/7.png', alt='')
       .col-sm-12.col-lg-10
         p.mb-0 Enfrentar estos desafíos requiere un enfoque crítico y cuidadoso en la selección y aplicación de las métricas de evaluación. Es esencial comprender no solo qué miden las métricas, sino también cómo interpretarlas en el contexto específico del problema que se está abordando.
-        p.mb-0 En los siguientes capítulos, profundizaremos en técnicas avanzadas y metodologías específicas para validar y mejorar modelos, incluyendo el uso de técnicas de ensamblado y la comunicación efectiva de resultados a través de informes y #[em storytelling.]
+        p.mb-0 En los siguientes temas, profundizaremos en técnicas avanzadas y metodologías específicas para validar y mejorar modelos, incluyendo el uso de técnicas de ensamblado y la comunicación efectiva de resultados a través de informes y #[em storytelling.]
 </template>
 
 <script>

@@ -67,7 +67,7 @@
           img(src='@/assets/curso/temas/t3/6.png')
 
     .titulo-tres: h3.mb-0 Conclusión
-    p.mb-5 En este capítulo, hemos profundizado en métricas avanzadas y técnicas esenciales para la evaluación y ajuste de modelos de aprendizaje automático. La matriz de confusión y el análisis de errores nos permiten entender detalladamente el desempeño del modelo y las razones detrás de sus errores. Las curvas ROC y el AUC ofrecen una perspectiva completa de la capacidad de discriminación del modelo, especialmente útil en situaciones donde los umbrales de decisión pueden variar.
+    p.mb-5 En este tema, hemos profundizado en métricas avanzadas y técnicas esenciales para la evaluación y ajuste de modelos de aprendizaje automático. La matriz de confusión y el análisis de errores nos permiten entender detalladamente el desempeño del modelo y las razones detrás de sus errores. Las curvas ROC y el AUC ofrecen una perspectiva completa de la capacidad de discriminación del modelo, especialmente útil en situaciones donde los umbrales de decisión pueden variar.
     .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-lg-4.d-none.d-lg-block
             img.mb-0(src='@/assets/curso/temas/t3/7.svg')

@@ -8,7 +8,7 @@
       h1 Técnicas de ensamblado de modelos de inteligencia artificial
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
-        p.mb-0 Los métodos de ensamblado representan un enfoque poderoso en el campo del #[em machine learning] para mejorar el rendimiento de los modelos predictivos. Al combinar múltiples modelos base, es posible superar las limitaciones individuales y obtener predicciones más precisas y robustas. Este capítulo introduce los fundamentos de las técnicas de ensamblado, explorando cómo algoritmos como #[em Bagging, Random forest y Boosting] pueden utilizarse para reducir la variabilidad, disminuir el sesgo y manejar datos complejos. A través de esta exploración, proporcionaremos una comprensión profunda de cómo y cuándo aplicar estos métodos para optimizar modelos de inteligencia artificial en diversas aplicaciones.
+        p.mb-0 Los métodos de ensamblado representan un enfoque poderoso en el campo del #[em machine learning] para mejorar el rendimiento de los modelos predictivos. Al combinar múltiples modelos base, es posible superar las limitaciones individuales y obtener predicciones más precisas y robustas. Este tema introduce los fundamentos de las técnicas de ensamblado, explorando cómo algoritmos como #[em Bagging, Random forest y Boosting] pueden utilizarse para reducir la variabilidad, disminuir el sesgo y manejar datos complejos. A través de esta exploración, proporcionaremos una comprensión profunda de cómo y cuándo aplicar estos métodos para optimizar modelos de inteligencia artificial en diversas aplicaciones.
       .col-sm-12.col-lg-4.d-none.d-lg-block: img(src='@/assets/curso/temas/t2/1.png', alt='')
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -287,7 +287,7 @@
               p.mb-0 #[b Sistemas de recomendación:] los ensamblados pueden mejorar la precisión de recomendaciones al combinar diferentes modelos.
       .col-sm-12.col-lg-5.d-none.d-lg-block: img(src='@/assets/curso/temas/t2/13.png')
     .titulo-tres: h3.mb-0 Conclusiones
-    p.mb-0 Los métodos de ensamblado son herramientas poderosas en el arsenal de #[em machine learning] que permiten mejorar la precisión y robustez de los modelos, al combinar múltiples modelos, es posible superar las limitaciones de modelos individuales y obtener mejores resultados en una amplia gama de aplicaciones, sin embargo, es importante comprender las diferencias entre las distintas técnicas de ensamblado y saber cuándo aplicarlas adecuadamente. En el próximo capítulo, profundizaremos en las métricas avanzadas de evaluación y en cómo ajustar los modelos para optimizar su rendimiento
+    p.mb-0 Los métodos de ensamblado son herramientas poderosas en el arsenal de #[em machine learning] que permiten mejorar la precisión y robustez de los modelos, al combinar múltiples modelos, es posible superar las limitaciones de modelos individuales y obtener mejores resultados en una amplia gama de aplicaciones, sin embargo, es importante comprender las diferencias entre las distintas técnicas de ensamblado y saber cuándo aplicarlas adecuadamente. En el próximo tema, profundizaremos en las métricas avanzadas de evaluación y en cómo ajustar los modelos para optimizar su rendimiento
 
 </template>
 

@@ -7,7 +7,7 @@
         span 4
       h1 Comunicación y documentación de resultados
     .bg-color-9.p-4.mb-5
-      p.mb-0 En el ámbito de la inteligencia artificial y el #[em machine learning], no es suficiente con desarrollar modelos precisos y robustos; es también clave comunicar eficazmente los hallazgos y resultados obtenidos. La capacidad para presentar información técnica de manera clara y accesible es esencial para que las partes interesadas comprendan el valor y las implicaciones de los modelos desarrollados. En este capítulo, exploraremos las mejores prácticas para la comunicación y documentación de resultados, incluyendo el arte del #[em storytelling] en ciencia de datos, la elaboración de informes técnicos, el desarrollo de manuales técnicos y la socialización y presentación de resultados.
+      p.mb-0 En el ámbito de la inteligencia artificial y el #[em machine learning], no es suficiente con desarrollar modelos precisos y robustos; es también clave comunicar eficazmente los hallazgos y resultados obtenidos. La capacidad para presentar información técnica de manera clara y accesible es esencial para que las partes interesadas comprendan el valor y las implicaciones de los modelos desarrollados. En este tema, exploraremos las mejores prácticas para la comunicación y documentación de resultados, incluyendo el arte del #[em storytelling] en ciencia de datos, la elaboración de informes técnicos, el desarrollo de manuales técnicos y la socialización y presentación de resultados.
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.1 El arte del #[i storytelling] en ciencia de datos

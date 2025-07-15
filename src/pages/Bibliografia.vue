@@ -43,7 +43,7 @@ export default {
       },
       {
         referencia:
-          'Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O&#39;Reilly Media.',
+          'Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O&#34;Reilly Media.',
         link: '',
       },
       {
@@ -78,7 +78,7 @@ export default {
       },
       {
         referencia:
-          'Polanía Arias, L. A. (2021). Evaluación de modelos de Machine learning para Sistemas de Detección de Intrusos en Redes IoT. Universidad de los Andes. Recuperado de ',
+          'Polanía Arias, L. A. (2021). Evaluación de modelos de Machine learning para Sistemas de Detección de Intrusos en Redes IoT. Universidad de los Andes. Recuperado de',
         link:
           'https://repositorio.uniandes.edu.co/server/api/core/bitstreams/c6f1ea83-58d7-4eb6-a1ba-c3457306c054/content',
       },
