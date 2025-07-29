@@ -64,7 +64,7 @@ export default {
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, septiembre 15). Introducción al <em>Machine learning</em>.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=wafh7O-vSQoI',
+          link: 'https://www.youtube.com/watch?v=xwjQmGJ3q0I',
         },
         {
           tema:
@@ -72,7 +72,7 @@ export default {
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2020, 13 septiembre). ¿Qué es <em>Machine learning</em>?',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=BweKKn_PKbE',
+          link: 'https://www.youtube.com/watch?v=J9w6KquPKbE',
         },
         {
           tema:
@@ -80,7 +80,7 @@ export default {
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, agosto 18). Aprendizaje no supervisado K-means.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=Vlff4MlN_4-6',
+          link: 'https://www.youtube.com/watch?v=yVIf4MtNg_c',
         },
         {
           tema:
@@ -88,28 +88,28 @@ export default {
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 27). Algoritmos usados en aprendizaje no supervisado.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=ZsscG3_Nx9M',
+          link: 'https://www.youtube.com/watch?v=iZ6soC3Nx9M',
         },
         {
           tema: '3. Métricas avanzadas de evaluación y ajuste de modelos',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, octubre 10). <em>Machine learning</em> con Python.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=wafh7O-elPSIA',
+          link: 'https://www.youtube.com/watch?v=noMy4-zjR9Q',
         },
         {
           tema: '3. Métricas avanzadas de evaluación y ajuste de modelos',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 17). Optimización de datos previo a la creación de modelos de <em>machine learning</em>.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=tKeCxw_PCVU',
+          link: 'https://www.youtube.com/watch?v=tkeCwwPOVIU',
         },
         {
           tema: '4. Comunicación y documentación de resultados',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2022, 26 diciembre). Introducción a la visualización de datos.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=7nn2bm07Dw',
+          link: 'https://www.youtube.com/watch?v=-7nn2bm07Dw',
         },
       ]
     },
